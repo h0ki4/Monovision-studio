@@ -227,6 +227,9 @@ html {
 
   @media screen and (max-width: 576px) {
     margin-top: 215px;
+    padding-bottom: 20px;
+  }
+  @media screen and (max-width: 365px) {
   }
 }
 
